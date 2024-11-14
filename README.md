@@ -6,7 +6,7 @@
 
 # Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é Testes de Software tradicionais e Testes de Software automatizados beaseados em Inteligência Artificial.
+1. A área da Engenharia de Software tratada neste trabalho é Testes de Software ( tradicionais) e Testes de Software Automatizados baseados em Inteligência Artificial.
  
 
 4. O objetivo geral a ser alcançado na pesqusia é avaliar a eficácia das ferramentas de teste automatizado baseadas em IA em comparação com as ferramentas tradicionais em projetos de engenharia de software, no que diz respeito à cobertura de código, detecção de defeitos e impacto no processo de desenvolvimento com relação ao tempo e qualidade.
