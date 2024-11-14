@@ -1,12 +1,12 @@
 # Avaliação de Ferramentas de Teste de software Baseadas em IA para Engenharia de Software em relação aos desenvolvedores.
 
-. João Pedro Moura Santos
-. Matheus Fuscaldi Gomes Santos
-. Lesandro Ponciano (orientador acadêmico)
+* João Pedro Moura Santos
+* Matheus Fuscaldi Gomes Santos
+* Lesandro Ponciano (orientador acadêmico)
 
 # Introdução
 
-
+ 
 
 Os 4 objetivos específicos são: Comparar a cobertura de testes gerados por ferramentas tradicionais e por ferramentas baseadas em IA;
 Medir a eficácia das ferramentas de IA na detecção de defeitos comparada às técnicas e ferramentas tradicionais de testes;
