@@ -21,7 +21,17 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
 
 # Fundamentação Téorica
 
+
+ 1. O conceito/teoria principal associado a este trabalho é (Testes de Software)...
+2. O conceito/teoria secundário associado a este trabalho é (Inteligência Artificial)...
+3. O conceito/teoria terciário associado a este trabalho é (Testes autônomos)...
+4. O conceito/teoria quartenário associado a este trabalho é (Testes tradicionias)...
+
+
 # Trabalhos Relacionados
 
 # Materiais e Métodos
+
+O tipo de pesquisa adotado neste trabalho é "quantitativa", porque ela trata de atribuidos quantitativos associados à comparações entre as duas abordagens e aos projetos, utilizando métricas de qualidade e tempo de execução dos testes, e também é  e "descritiva".
+
 
