@@ -24,8 +24,8 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
 
  1. O conceito/teoria principal associado a este trabalho é Testes de Software, conforme é definido no trabalho " Analyses of Software Testing Approaches" (https://ieeexplore.ieee.org/document/10060147) pelos autores S. Joshi e I. Kumari (Bengaluru, India, 2022).
 2. O conceito/teoria secundário associado a este trabalho é Inteligência Artificial, conforme é definido no artigo " A Brief Introduction To Artificial Intelligence" ( https://ieeexplore.ieee.org/document/1152096) pelo autor C. Williams (EUA, 1983)
-3. O conceito/teoria terciário associado a este trabalho é (Testes autônomos)...
-4. O conceito/teoria quartenário associado a este trabalho é (Testes tradicionias)...
+3. O conceito/teoria terciário associado a este trabalho é Arquitetura de Testes de Software, conforme é definido durante o artigo "Defining Software Test Architectures with the UMLTesting Profile" (https://doi.org/10.1109/ICSTW58534.2023.00056) pelos autores J. Hagar and M. -F. Wendland (Irlanda,2023).
+
 
 
 # Trabalhos Relacionados
@@ -34,8 +34,9 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
 
 2. O segundo trabalho mais relacionado é "Software Testing Research Challenges: An Industrial Perspective" (https://doi.org/10.1109/ICST57152.2023.00008), publicado no ano de 2023, por que ele ressalta os principais desafios enfrentados nas grandes empresas ao implementar testes de softwares em softwares complexos, trazendo a utilização da Inteligência artificial e ML para otimizar testes de software e auxiliar no encontro de erros e manutenções necessárias.
 
-3. O terceiro trabalho mais relacionado é "Herding a Deluge of Good Samaritans: How GitHub Projects Respond to Increased Attention" (https://doi.org/10.1145/3366423.3380272), publicado no ano 2021,  por que ele coloca a questão da popularidade ou atenção recebida pelo projeto e de como isso afeta o comportamento dos programadores, sendo, portanto, relevante para se compreender como popularidade e engajamento podem estar relacionados.
+3. O terceiro trabalho mais relacionado é "An Empirical Study of Software Testing Quality based on Natural Experiments" (https://doi.org/10.1109/QRS-C57518.2022.00080), publicado no ano de 2022,  por que ele o artigo destaca, através de um modelo de análise de robustez, que o tamanho das equipes de teste de software podem influenciar a qualidade dos testes tradicionais: uma equipe maior consegue melhores resultados comparados com outras equipes menores. Levando a compreensão de como mudanças institucionais influenciam os processos de teste, reforçando a aplicabilidade e potencial dos métodos naturais em pesquisas de qualidade de testes de software futuras, que poderão ser utilizadas para comparar com o uso de IA.
 
+   
 # Materiais e Métodos
 
 O tipo de pesquisa adotado neste trabalho é "quantitativa", porque ela trata de atribuidos quantitativos associados à comparações entre as duas abordagens e aos projetos, utilizando métricas de qualidade e tempo de execução dos testes, e também é  e "descritiva".
