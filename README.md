@@ -43,7 +43,17 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
 
 Este trabalho adota uma abordagem **quantitativa**, pois busca comparar métricas de desempenho entre ferramentas de teste de software tradicionais e aquelas baseadas em inteligência artificial (IA). Os dados coletados incluem atributos como cobertura de código, detecção de defeitos, tempo de execução e impacto na qualidade do software. Além disso, a pesquisa é **descritiva**, uma vez que explora características e comportamentos observados no uso dessas ferramentas em diferentes contextos.
 
-* Método de Coleta de Dados:
+
+* 2. Os materiais utilizados neste trabalho são:
+As ferramentas de teste:
+- **Ferramentas tradicionais**: JUnit, Selenium, Visual Studio Code.
+- **Ferramentas baseadas em IA**: Testim.io, Applitools.
+
+Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à disponibilidade de recursos adequados para a pesquisa.
+
+* 3. Os métodos empregados neste trabalho são:
+
+- Método de Coleta de Dados:
 Os dados serão coletados a partir de dois grupos de desenvolvedores: 
 
 1. **Grupo Controle**: Utilizará ferramentas tradicionais de teste de software.
@@ -51,12 +61,7 @@ Os dados serão coletados a partir de dois grupos de desenvolvedores:
 
 Cada grupo será submetido às mesmas tarefas de teste, aplicadas a projetos simulados e reais de engenharia de software. 
 
-. Ferramentas de Teste:
-As ferramentas selecionadas incluem:
-- **Ferramentas tradicionais**: JUnit, Selenium.
-- **Ferramentas baseadas em IA**: Testim.io, Applitools.
 
-Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à disponibilidade de recursos adequados para a pesquisa.
 
 . Procedimentos:
 1. **Seleção de Cenários de Teste**:
@@ -74,15 +79,15 @@ Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à di
 
 4. **Coleta de Percepção dos Desenvolvedores**:
    - Questionários para avaliar o impacto no processo de desenvolvimento, incluindo usabilidade e confiança nas ferramentas.
+  
+     
 
-Método de Análise de Dados:
+- Método de Análise de Dados:
 Os dados serão analisados por meio de estatística descritiva e inferencial:
-- Comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando testes estatísticos como teste t para dados dependentes.
-- Análise qualitativa dos questionários para identificar percepções subjetivas dos desenvolvedores sobre a eficácia das ferramentas.
+. Comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando testes estatísticos como teste t para dados dependentes.
+. Análise qualitativa dos questionários para identificar percepções subjetivas dos desenvolvedores sobre a eficácia das ferramentas.
 
- Limitações:
-- O número de participantes pode limitar a generalização dos resultados.
-- A variedade de projetos e cenários testados será limitada ao escopo do tempo e recursos disponíveis.
+ 
 
 ###
 
