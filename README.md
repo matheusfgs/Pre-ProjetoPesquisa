@@ -41,6 +41,49 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
    
 # Materiais e Métodos
 
-O tipo de pesquisa adotado neste trabalho é "quantitativa", porque ela trata de atribuidos quantitativos associados à comparações entre as duas abordagens e aos projetos, utilizando métricas de qualidade e tempo de execução dos testes, e também é  e "descritiva".
+Este trabalho adota uma abordagem **quantitativa**, pois busca comparar métricas de desempenho entre ferramentas de teste de software tradicionais e aquelas baseadas em inteligência artificial (IA). Os dados coletados incluem atributos como cobertura de código, detecção de defeitos, tempo de execução e impacto na qualidade do software. Além disso, a pesquisa é **descritiva**, uma vez que explora características e comportamentos observados no uso dessas ferramentas em diferentes contextos.
+
+* Método de Coleta de Dados:
+Os dados serão coletados a partir de dois grupos de desenvolvedores: 
+
+1. **Grupo Controle**: Utilizará ferramentas tradicionais de teste de software.
+2. **Grupo Experimental**: Utilizará ferramentas baseadas em IA.
+
+Cada grupo será submetido às mesmas tarefas de teste, aplicadas a projetos simulados e reais de engenharia de software. 
+
+. Ferramentas de Teste:
+As ferramentas selecionadas incluem:
+- **Ferramentas tradicionais**: JUnit, Selenium.
+- **Ferramentas baseadas em IA**: Testim.io, Applitools.
+
+Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à disponibilidade de recursos adequados para a pesquisa.
+
+. Procedimentos:
+1. **Seleção de Cenários de Teste**:
+   - Projetos simulados com diferentes níveis de complexidade (crítico e não-crítico).
+   - Sistemas desenvolvidos em diferentes linguagens e culturas.
+
+2. **Definição de Métricas**:
+   - **Cobertura de Código**: Percentual de linhas de código exercitadas pelos testes.
+   - **Taxa de Detecção de Defeitos**: Proporção de erros encontrados em relação ao total existente.
+   - **Tempo de Execução**: Tempo médio gasto na execução dos testes.
+   - **Impacto na Qualidade**: Avaliado por meio de questionários aplicados aos desenvolvedores e análises do software final.
+
+3. **Execução dos Testes**:
+   - Ambos os grupos realizarão testes em dois ciclos: antes e depois da introdução das ferramentas de IA.
+
+4. **Coleta de Percepção dos Desenvolvedores**:
+   - Questionários para avaliar o impacto no processo de desenvolvimento, incluindo usabilidade e confiança nas ferramentas.
+
+Método de Análise de Dados:
+Os dados serão analisados por meio de estatística descritiva e inferencial:
+- Comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando testes estatísticos como teste t para dados dependentes.
+- Análise qualitativa dos questionários para identificar percepções subjetivas dos desenvolvedores sobre a eficácia das ferramentas.
+
+ Limitações:
+- O número de participantes pode limitar a generalização dos resultados.
+- A variedade de projetos e cenários testados será limitada ao escopo do tempo e recursos disponíveis.
+
+###
 
 
