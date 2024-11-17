@@ -45,9 +45,9 @@ Este trabalho adota uma abordagem **quantitativa**, pois busca comparar métrica
 
 
 * 2. Os materiais utilizados neste trabalho são:
-As ferramentas de teste:
-- **Ferramentas tradicionais**: JUnit, Selenium, Visual Studio Code.
-- **Ferramentas baseadas em IA**: Testim.io, Applitools.
+
+- **Ferramentas de teste tradicionais**: JUnit, Selenium, Visual Studio Code.
+- **Ferramentas de teste baseadas em IA**: Testim.io, Applitools, GenAI.
 
 Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à disponibilidade de recursos adequados para a pesquisa.
 
@@ -62,8 +62,21 @@ Os dados serão coletados a partir de dois grupos de desenvolvedores:
 Cada grupo será submetido às mesmas tarefas de teste, aplicadas a projetos simulados e reais de engenharia de software. 
 
 
+- Método de Análise de Dados:
+Os dados serão analisados por meio de estatística descritiva e inferencial:
+. Comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando testes estatísticos como teste t para dados dependentes.
+. Análise qualitativa dos questionários para identificar percepções subjetivas dos desenvolvedores sobre a eficácia das ferramentas.
 
-. Procedimentos:
+
+* 4. As métricas de avaliação neste trabalho são:
+ . Cobertura de Código;
+ . Taxa de Detecção de Defeitos;
+ . Tempo de Execução;
+ . Impacto na qualidade;
+
+* 5.As Etapas de execução do trabalho são:
+     
+
 1. **Seleção de Cenários de Teste**:
    - Projetos simulados com diferentes níveis de complexidade (crítico e não-crítico).
    - Sistemas desenvolvidos em diferentes linguagens e culturas.
@@ -79,14 +92,6 @@ Cada grupo será submetido às mesmas tarefas de teste, aplicadas a projetos sim
 
 4. **Coleta de Percepção dos Desenvolvedores**:
    - Questionários para avaliar o impacto no processo de desenvolvimento, incluindo usabilidade e confiança nas ferramentas.
-  
-     
-
-- Método de Análise de Dados:
-Os dados serão analisados por meio de estatística descritiva e inferencial:
-. Comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando testes estatísticos como teste t para dados dependentes.
-. Análise qualitativa dos questionários para identificar percepções subjetivas dos desenvolvedores sobre a eficácia das ferramentas.
-
  
 
 ###
