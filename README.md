@@ -44,14 +44,14 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
 Este trabalho adota uma abordagem **quantitativa**, pois busca comparar métricas de desempenho entre ferramentas de teste de software tradicionais e aquelas baseadas em inteligência artificial (IA). Os dados coletados incluem atributos como cobertura de código, detecção de defeitos, tempo de execução e impacto na qualidade do software. Além disso, a pesquisa é **descritiva**, uma vez que explora características e comportamentos observados no uso dessas ferramentas em diferentes contextos.
 
 
-* 2. Os materiais utilizados neste trabalho são:
+* (2). Os materiais utilizados neste trabalho são:
 
 - **Ferramentas de teste tradicionais**: JUnit, Selenium, Visual Studio Code.
 - **Ferramentas de teste baseadas em IA**: Testim.io, Applitools, GenAI.
 
 Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à disponibilidade de recursos adequados para a pesquisa.
 
-* 3. Os métodos empregados neste trabalho são:
+* (3). Os métodos empregados neste trabalho são:
 
 - Método de Coleta de Dados:
 Os dados serão coletados a partir de dois grupos de desenvolvedores: 
@@ -68,13 +68,13 @@ Os dados serão analisados por meio de estatística descritiva e inferencial:
 . Análise qualitativa dos questionários para identificar percepções subjetivas dos desenvolvedores sobre a eficácia das ferramentas.
 
 
-* 4. As métricas de avaliação neste trabalho são:
+* (4). As métricas de avaliação neste trabalho são:
  . Cobertura de Código;
  . Taxa de Detecção de Defeitos;
  . Tempo de Execução;
  . Impacto na qualidade;
 
-* 5.As Etapas de execução do trabalho são:
+* (5). As Etapas de execução do trabalho são:
      
 
 1. **Seleção de Cenários de Teste**:
