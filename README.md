@@ -22,8 +22,8 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
 # Fundamentação Téorica
 
 
- 1. O conceito/teoria principal associado a este trabalho é Testes de Software, conforme é definido no trabalho " Analyses of Software Testing Approaches" (https://ieeexplore.ieee.org/document/10060147) por S. Joshi e I. Kumari (Bengaluru, India, 2022).
-2. O conceito/teoria secundário associado a este trabalho é (Inteligência Artificial)...
+ 1. O conceito/teoria principal associado a este trabalho é Testes de Software, conforme é definido no trabalho " Analyses of Software Testing Approaches" (https://ieeexplore.ieee.org/document/10060147) pelos autores S. Joshi e I. Kumari (Bengaluru, India, 2022).
+2. O conceito/teoria secundário associado a este trabalho é Inteligência Artificial, conforme é definido no artigo " A Brief Introduction To Artificial Intelligence" ( https://ieeexplore.ieee.org/document/1152096) pelo autor C. Williams (EUA, 1983)
 3. O conceito/teoria terciário associado a este trabalho é (Testes autônomos)...
 4. O conceito/teoria quartenário associado a este trabalho é (Testes tradicionias)...
 
