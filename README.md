@@ -23,8 +23,10 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
 
 
  1. O conceito/teoria principal associado a este trabalho é Testes de Software, conforme é definido no trabalho " Analyses of Software Testing Approaches" (https://ieeexplore.ieee.org/document/10060147) pelos autores S. Joshi e I. Kumari (Bengaluru, India, 2022).
+    
 2. O conceito/teoria secundário associado a este trabalho é Inteligência Artificial, conforme é definido no artigo " A Brief Introduction To Artificial Intelligence" ( https://ieeexplore.ieee.org/document/1152096) pelo autor C. Williams (EUA, 1983)
-3. O conceito/teoria terciário associado a este trabalho é Arquitetura de Testes de Software, conforme é definido durante o artigo "Defining Software Test Architectures with the UMLTesting Profile" (https://doi.org/10.1109/ICSTW58534.2023.00056) pelos autores J. Hagar and M. -F. Wendland (Irlanda,2023).
+   
+3. O conceito/teoria terciário associado a este trabalho é Arquitetura de Testes de Software, A sua definição neste trabalho é "Conceito de arquitetura de teste de software (STA) e a aplicação do Perfil de Teste UML (UTP) para definir e especificar arquiteturas de teste de software". Ele explora a ideia de TA (Test Architecture) como um modelo conceitual e tradicional que representa a estrutura, o comportamento e as perspectivas do sistema usados para testar um Além disso, o artigo discute como diferentes configurações do ambiente de teste podem fornecer suporte a tipos específicos de testes de software. .Conforme é definido durante o artigo "Defining Software Test Architectures with the UMLTesting Profile" (https://doi.org/10.1109/ICSTW58534.2023.00056) pelos autores J. Hagar and M. -F. Wendland (Irlanda,2023).
 
 
 
