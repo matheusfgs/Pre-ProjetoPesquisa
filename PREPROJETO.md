@@ -22,7 +22,7 @@ Analisar se o uso da IA gera mais qualidade ao software comparando a projetos qu
 # Fundamentação Téorica
 
 
- 1. O conceito/teoria principal associado a este trabalho é Testes de Software. A sua definição neste trabalho é "s testes de software são realizados para garantir um nível suficiente de qualidade no produto final e para descobrir quaisquer erros no código. É uma solução barata para qualquer problema.", conforme é definido no trabalho "Analyses of Software Testing Approaches" (https://ieeexplore.ieee.org/document/10060147) pelos autores S. Joshi e I. Kumari (2022).
+ 1. O conceito/teoria principal associado a este trabalho é Testes de Software. A sua definição neste trabalho é "testes de software são realizados para garantir um nível suficiente de qualidade no produto final e para descobrir quaisquer erros no código. É uma solução barata para qualquer problema.", conforme é definido no trabalho "Analyses of Software Testing Approaches" (https://ieeexplore.ieee.org/document/10060147) pelos autores S. Joshi e I. Kumari (2022).
     
 2. O conceito/teoria secundário associado a este trabalho é uso da Inteligência Artificial em testes de software. A sua definição neste trabalho é "Os testes com IA combinam algoritmos inteligentes para criar processos automatizados, como a geração de casos de teste baseados em requisitos funcionais e a análise de cobertura de testes", conforme é definido no artigo " The Impact of Artificial Intelligence on Software Testing" (https://ieeexplore.ieee.org/document/8717439) pelos autores H. Hourani, A. Hammad and M. Lafi (2019)
    
