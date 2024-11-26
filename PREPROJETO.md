@@ -78,7 +78,7 @@ Os dados serão analisados por meio de estatística descritiva e inferencial:
      
 
 1. **Seleção de Cenários de Teste**:
-   - Projetos simulados com diferentes níveis de complexidade (crítico e não-crítico).
+   
    - Sistemas desenvolvidos em diferentes linguagens e culturas.
 
 2. **Definição de Métricas**:
