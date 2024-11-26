@@ -64,7 +64,7 @@ Cada grupo será submetido às mesmas tarefas de teste, aplicadas a projetos sim
 
 - Método de Análise de Dados:
 Os dados serão analisados por meio de estatística descritiva e inferencial:
-. Comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando testes estatísticos como teste t para dados dependentes.
+. Comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando testes estatísticos como teste t para duas amostras independentes, teste de software com chat gpt e teste de softwares tradicionais.
 . Análise qualitativa dos questionários para identificar percepções subjetivas dos desenvolvedores sobre a eficácia das ferramentas.
 
 
