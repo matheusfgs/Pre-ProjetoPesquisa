@@ -47,17 +47,16 @@
 Este trabalho adota uma abordagem **quantitativa**, pois busca comparar métricas de desempenho entre ferramentas de teste de software tradicionais e aquelas baseadas em inteligência artificial (IA). Os dados coletados incluem atributos como cobertura de código, detecção de defeitos, tempo de execução e impacto na qualidade do software. Além disso, a pesquisa é **descritiva**, uma vez que explora características e comportamentos observados no uso dessas ferramentas em diferentes contextos.
 
 
-* (2). Os materiais utilizados neste trabalho são:
+* (1). Os materiais utilizados neste trabalho são:
 
 - **Ferramentas de teste tradicionais**: JUnit, Selenium, Visual Studio Code.
 - **Ferramentas de teste baseadas em IA**: Testim.io, Applitools, GenAI.
 
 Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à disponibilidade de recursos adequados para a pesquisa.
 
-* (3). Os métodos empregados neste trabalho são:
+* (2). Os métodos empregados neste trabalho são:
 
-- Método de Coleta de Dados:
-Os dados serão coletados a partir de dois grupos de desenvolvedores: 
+- Método de Coleta de Dados: Os dados serão coletados a partir de dois grupos de desenvolvedores: 
 
 1. **Grupo Controle**: Utilizará ferramentas tradicionais de teste de software.
 2. **Grupo Experimental**: Utilizará ferramentas baseadas em IA.
@@ -66,8 +65,8 @@ Cada grupo será submetido às mesmas tarefas de teste, aplicadas a projetos sim
 
 
 - Método de Análise de Dados:
-Os dados serão analisados por meio de estatística descritiva e inferencial:
- . Os dados serão analisados por meio da comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando cálculos como Tempo Médio de Detecção de erros (TMD) = Tempo Gasto (TG) / Número de defeitos detectados (NDD), onde é medido o tempo necessário para corrigir um defeito.
+
+ Os dados serão analisados por meio da comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando cálculos como Tempo Médio de Detecção de erros (TMD) = Tempo Gasto (TG) / Número de defeitos detectados (NDD), onde é medido o tempo necessário para corrigir um defeito.
 
 * (4). As métricas de avaliação neste trabalho são:
  . Cobertura de Código;
