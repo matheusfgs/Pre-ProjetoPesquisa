@@ -18,7 +18,7 @@
    
     Medir a eficácia das ferramentas de IA na detecção de defeitos comparada às técnicas e ferramentas tradicionais de testes, em específico os testes manuais;
 
-    comparar o impacto dessas ferramentas de IA e manuais no tempo de desenvolvimento;
+    Comparar o impacto dessas ferramentas de IA e manuais no tempo de desenvolvimento;
 
     Comparar o tempo gasto por grupos de desenvolvedores antes e depois de utilizarem IA para realizar os testes de softwares.
 
