@@ -44,56 +44,60 @@
    
 # Materiais e Métodos
 
-Este trabalho adota uma abordagem **quantitativa**, pois busca comparar métricas de desempenho entre ferramentas de teste de software tradicionais e aquelas baseadas em inteligência artificial (IA). Os dados coletados incluem atributos como cobertura de código, detecção de defeitos, tempo de execução e impacto na qualidade do software. Além disso, a pesquisa é **descritiva**, uma vez que explora características e comportamentos observados no uso dessas ferramentas em diferentes contextos.
+O tipo de pesquisa adotado neste trabalho é **quantitativa**, porque busca comparar métricas de desempenho entre ferramentas de teste de software tradicionais e aquelas baseadas em inteligência artificial (IA). Os dados coletados incluem atributos como cobertura de código, detecção de defeitos, tempo de execução e impacto na qualidade do software. Além disso, a pesquisa é **descritiva**, uma vez que explora características e comportamentos observados no uso dessas ferramentas em diferentes contextos.
 
 
-* (1). Os materiais utilizados neste trabalho são:
+1. **Os materiais utilizados neste trabalho são:**
 
 - **Ferramentas de teste tradicionais**: JUnit, Selenium, Visual Studio Code.
 - **Ferramentas de teste baseadas em IA**: Testim.io, Applitools, GenAI.
 
 Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à disponibilidade de recursos adequados para a pesquisa.
 
-* (2). Os métodos empregados neste trabalho são:
 
-- Método de Coleta de Dados: Os dados serão coletados a partir de dois grupos de desenvolvedores: 
+2. **Os métodos empregados neste trabalho são:**
 
-1. **Grupo Controle**: Utilizará ferramentas tradicionais de teste de software.
-2. **Grupo Experimental**: Utilizará ferramentas baseadas em IA.
+* **Método de Coleta de Dados:** Os dados serão coletados a partir de dois grupos de desenvolvedores: 
+
+
+- **Grupo Controle**: Utilizará ferramentas tradicionais de teste de software.
+
+- **Grupo Experimental**: Utilizará ferramentas baseadas em IA.
 
 Cada grupo será submetido às mesmas tarefas de teste, aplicadas a projetos simulados e reais de engenharia de software. 
 
 
-- Método de Análise de Dados:
+3. **Método de Análise de Dados:**
 
- Os dados serão analisados por meio da comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando cálculos como Tempo Médio de Detecção de erros (TMD) = Tempo Gasto (TG) / Número de defeitos detectados (NDD), onde é medido o tempo necessário para corrigir um defeito.
+ - Os dados serão analisados por meio da comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando cálculos como Tempo Médio de Detecção de erros (TMD) = Tempo Gasto (TG) / Número de defeitos detectados (NDD), onde é medido o tempo necessário para corrigir um defeito.
 
-* (4). As métricas de avaliação neste trabalho são:
- . Cobertura de Código;
- . Taxa de Detecção de Defeitos;
- . Tempo de Execução;
- . Impacto na qualidade;
- . Questionários feitos aos desenvolvedores para avaliar a qualidade dos testes.
+4. **As métricas de avaliação neste trabalho são:**
+ - Cobertura de Código;
+ - Taxa de Detecção de Defeitos;
+ - Tempo de Execução;
+ - Impacto na qualidade;
+ - Questionários feitos aos desenvolvedores para avaliar a qualidade dos testes.
 
-* (5). As Etapas de execução do trabalho são:
+ 
+5. **As Etapas de execução do trabalho são:**
      
 
-1. **Seleção de Cenários de Teste**:
+5.1. **Seleção de Cenários de Teste**:
 
    - Projetos simulados com diferentes níveis de complexidade.
 
    - Sistemas desenvolvidos em diferentes linguagens e culturas.
 
-1. **Definição de Métricas**:
+5.2. **Definição de Métricas**:
    - **Cobertura de Código**: Percentual de linhas de código exercitadas pelos testes.
    - **Taxa de Detecção de Defeitos**: Proporção de erros encontrados em relação ao total existente.
    - **Tempo de Execução**: Tempo médio gasto na execução dos testes.
    - **Impacto na Qualidade**: Avaliado por meio de questionários aplicados aos desenvolvedores e análises do software final.
 
-2. **Execução dos Testes**:
+5.3. **Execução dos Testes**:
    - Ambos os grupos realizarão testes em dois ciclos: antes e depois da introdução das ferramentas de IA.
 
-3. **Coleta de Percepção dos Desenvolvedores**:
+5.4. **Coleta de Percepção dos Desenvolvedores**:
    Coleta de opinião dos Desenvolvedores através da Escala Likert, por meio de questionários para avaliar o impacto no processo de desenvolvimento, incluindo usabilidade e confiança nas ferramentas, com uma escala de resposta que vai de: 1 = Discordo totalmente até 5 = Concordo totalmente.
  
 
