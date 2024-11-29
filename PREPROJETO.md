@@ -15,9 +15,9 @@
 4. O objetivo geral a ser alcançado na pesquisa é avaliar a eficácia das ferramentas de teste automatizado baseadas em IA em comparação com as ferramentas tradicionais em projetos de engenharia de software, no que diz respeito à cobertura de código, detecção de defeitos e impacto no processo de desenvolvimento com relação ao tempo e qualidade.
 
 5. Os 4 objetivos específicos são: Comparar a cobertura de testes gerados por ferramentas tradicionais e por ferramentas baseadas em IA;
-    Analisar se os testes feitos por IA oferecem algum benefício que testes manuais podem não suprir;
-    Analisar se as ferramentas de teste baseadas em IA podem apresentar viés? Se sim, como isso pode ser mitigado;
-    Comparar diferença de resultados de um grupo de desenvolvedores antes e depois de utilizarem IA para realizar testes de software.
+Medir a eficácia das ferramentas de IA na detecção de defeitos comparada às técnicas e ferramentas tradicionais de testes, em específico os testes manuais;
+comparar o impacto dessas ferramentas de IA e manuais no tempo de desenvolvimento;
+Comparar o tempo gasto por grupos de desenvolvedores antes e depois de utilizarem IA para realizar os testes de softwares.
 
 # Fundamentação Téorica
 
