@@ -16,11 +16,11 @@
 
 5. Os 4 objetivos específicos são: Comparar a cobertura de testes gerados por ferramentas tradicionais e por ferramentas baseadas em IA;
    
-Medir a eficácia das ferramentas de IA na detecção de defeitos comparada às técnicas e ferramentas tradicionais de testes, em específico os testes manuais;
+    Medir a eficácia das ferramentas de IA na detecção de defeitos comparada às técnicas e ferramentas tradicionais de testes, em específico os testes manuais;
 
-comparar o impacto dessas ferramentas de IA e manuais no tempo de desenvolvimento;
+    comparar o impacto dessas ferramentas de IA e manuais no tempo de desenvolvimento;
 
-Comparar o tempo gasto por grupos de desenvolvedores antes e depois de utilizarem IA para realizar os testes de softwares.
+    Comparar o tempo gasto por grupos de desenvolvedores antes e depois de utilizarem IA para realizar os testes de softwares.
 
 # Fundamentação Téorica
 
