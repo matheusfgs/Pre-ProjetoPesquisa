@@ -57,7 +57,7 @@ Essas ferramentas foram escolhidas devido à sua popularidade no mercado e à di
 
 2. **Os métodos empregados neste trabalho são:**
 
-* **Método de Coleta de Dados:** Os dados serão coletados a partir de dois grupos de desenvolvedores: 
+* **Método de Coleta de Dados:** Os dados serão coletados a partir de dois grupos de desenvolvedores no período de 10 dias: 
 
 
 - **Grupo Controle**: Utilizará ferramentas tradicionais de teste de software.
