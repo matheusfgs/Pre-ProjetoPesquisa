@@ -8,16 +8,16 @@
 
 1. A área da Engenharia de Software tratada neste trabalho é Testes de Software ( tradicionais) e Testes de Software Automatizados baseados em Inteligência Artificial.
 
-2. O problema que este trabalho busca resolver nessa área é conforme as questões de pesquisa (RQ, do inglês Research Questions) a seguir: (RQ1) Os testes manuais oferecem algum benefício que a automação pode não suprir? (RQ2) Ferramentas de teste baseadas em IA podem apresentar viés? Se sim, como isso pode ser mitigado? (RQ3) Qual é a diferença de resultados de um grupo de desenvolvedores antes e depois de utilizarem IA para realizar testes de software?
+2. O problema que este trabalho busca resolver nessa área é conforme as questões de pesquisa (RQ, do inglês Research Questions) a seguir: (RQ1) Avaliar os riscos do uso de ferramentas de IA em testes de software, comparando-os com métodos  tradicionais, em específico os testes de software manuais e, com isso, analisar o impacto no desempenho dos desenvolvedores
 
 3. Resolver este problema é relevante por que a avaliação da eficácia das ferramentas de teste automatizado baseadas em IA em comparação com as ferramentas e métodos tradicionais busca saber se as ferramentas de teste atuais que utilizam IA são mais ou menos eficazes aos padrões originais, tentando também compreender se há algum impacto referente ao uso dessas ferramentas em relação ao gasto ou aproveitamento de tempo e a mudança na qualidade. 
 
 4. O objetivo geral a ser alcançado na pesquisa é avaliar a eficácia das ferramentas de teste automatizado baseadas em IA em comparação com as ferramentas tradicionais em projetos de engenharia de software, no que diz respeito à cobertura de código, detecção de defeitos e impacto no processo de desenvolvimento com relação ao tempo e qualidade.
 
 5. Os 4 objetivos específicos são: Comparar a cobertura de testes gerados por ferramentas tradicionais e por ferramentas baseadas em IA;
-Medir a eficácia das ferramentas de IA na detecção de defeitos comparada às técnicas e ferramentas tradicionais de testes;
-Analisar o impacto dessas ferramentas no tempo de desenvolvimento;
-Analisar se o uso da IA gera mais qualidade ao software comparando a projetos que não utilizam.
+    Analisar se os testes feitos por IA oferecem algum benefício que testes manuais podem não suprir;
+    Analisar se as ferramentas de teste baseadas em IA podem apresentar viés? Se sim, como isso pode ser mitigado;
+    Comparar diferença de resultados de um grupo de desenvolvedores antes e depois de utilizarem IA para realizar testes de software.
 
 # Fundamentação Téorica
 
