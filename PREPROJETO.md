@@ -67,34 +67,35 @@ Cada grupo será submetido às mesmas tarefas de teste, aplicadas a projetos sim
 
 - Método de Análise de Dados:
 Os dados serão analisados por meio de estatística descritiva e inferencial:
-. Comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando testes estatísticos como teste t para duas amostras independentes, teste de software com chat gpt e teste de softwares tradicionais.
-. Análise qualitativa dos questionários para identificar percepções subjetivas dos desenvolvedores sobre a eficácia das ferramentas.
-
+ . Os dados serão analisados por meio da comparação entre os resultados do Grupo Controle e Grupo Experimental utilizando cálculos como Tempo Médio de Detecção de erros (TMD) = Tempo Gasto (TG) / Número de defeitos detectados (NDD), onde é medido o tempo necessário para corrigir um defeito.
 
 * (4). As métricas de avaliação neste trabalho são:
  . Cobertura de Código;
  . Taxa de Detecção de Defeitos;
  . Tempo de Execução;
  . Impacto na qualidade;
+ . Questionários feitos aos desenvolvedores para avaliar a qualidade dos testes.
 
 * (5). As Etapas de execução do trabalho são:
      
 
 1. **Seleção de Cenários de Teste**:
-   
+
+   - Projetos simulados com diferentes níveis de complexidade.
+
    - Sistemas desenvolvidos em diferentes linguagens e culturas.
 
-2. **Definição de Métricas**:
+1. **Definição de Métricas**:
    - **Cobertura de Código**: Percentual de linhas de código exercitadas pelos testes.
    - **Taxa de Detecção de Defeitos**: Proporção de erros encontrados em relação ao total existente.
    - **Tempo de Execução**: Tempo médio gasto na execução dos testes.
    - **Impacto na Qualidade**: Avaliado por meio de questionários aplicados aos desenvolvedores e análises do software final.
 
-3. **Execução dos Testes**:
+2. **Execução dos Testes**:
    - Ambos os grupos realizarão testes em dois ciclos: antes e depois da introdução das ferramentas de IA.
 
-4. **Coleta de Percepção dos Desenvolvedores**:
-   - Questionários para avaliar o impacto no processo de desenvolvimento, incluindo usabilidade e confiança nas ferramentas.
+3. **Coleta de Percepção dos Desenvolvedores**:
+   Coleta de opinião dos Desenvolvedores através da Escala Likert, por meio de questionários para avaliar o impacto no processo de desenvolvimento, incluindo usabilidade e confiança nas ferramentas, com uma escala de resposta que vai de: 1 = Discordo totalmente até 5 = Concordo totalmente.
  
 
 ###
